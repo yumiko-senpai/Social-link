@@ -14,7 +14,7 @@ body{
     font-size: 14px;
 }
 .BC{
-    background-image: url('assets/images/15.jpg');
+    background-image: url('./assets/images/15.jpg');
     height: 100vh;
     width: 100vh;
     opacity: 0.3;
